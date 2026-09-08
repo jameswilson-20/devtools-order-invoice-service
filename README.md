@@ -71,3 +71,7 @@ The snippet above stays copy-paste simple. Before you ship, a few **required** s
 
 **Devtools Order Invoice Service: PDF**
 - **Devtools Order Invoice Service:** Generation draws on credit; large/complex documents cost more — watch `GET /v1/account/usage`.
+
+## Further reading
+
+- [Rental Applications at Scale: Asynchronous Jobs, Retries, and Secure File Handling](docs/rental-applications-at-scale-asynchronous-jobs-re-16psg4.md)
